@@ -1,7 +1,5 @@
 cambios de feature / modeloconexion
-
 cambios de PRINCIPAL PRINCIPAL
 mas principal principal
-
-cambios de PRINCIPAL PRINCIPAL mas datos
+segundo cambio feature
 
